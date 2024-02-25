@@ -45,11 +45,17 @@ The Product page provides insights into product performance, including top-selli
 ### Help
 The Help page provides user-friendly guidance on how to navigate and utilize the dashboard effectively. Users can access tutorials, FAQs, and troubleshooting tips to enhance their experience.
 
+<img width="617" alt="Help_SA" src="https://github.com/gouravjain77/PowerBI/assets/152005778/0ec60710-7c03-45ff-bfbd-39cc21818f26">
+
 ### Export
 The Export page allows users to export sales data and reports as Excel Table. Users can customize the export settings and choose specific data to export, enabling seamless integration with other systems or tools.
 
+<img width="496" alt="Export_SA" src="https://github.com/gouravjain77/PowerBI/assets/152005778/b4d06562-15eb-437a-ae40-33b131aa6cb9">
+
 ### Dynamic Tooltip
 The dashboard features a dynamic tooltip that provides contextual information and insights when hovering over data points or visualizations, enhancing the user experience and making it easier to interpret the data. 
+
+<img width="272" alt="Tooltip_SA" src="https://github.com/gouravjain77/PowerBI/assets/152005778/a3c38b7c-ab94-4849-9ac8-0b3f2edab23a">
 
 ### Measures Created :
 - Date Selection = FORMAT(MIN(DIM_DATE[Reporting Period]),"MMM/YY")&" - "& FORMAT(MAX(DIM_DATE[Reporting Period]),"MMM/YY")
