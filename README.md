@@ -57,6 +57,11 @@ The dashboard features a dynamic tooltip that provides contextual information an
 
 <img width="272" alt="Tooltip_SA" src="https://github.com/gouravjain77/PowerBI/assets/152005778/a3c38b7c-ab94-4849-9ac8-0b3f2edab23a">
 
+### Drill Down Pages
+The Drill Down pages allow users to drill down into specific data points or categories to get a more detailed view of sales performance. This helps in identifying underlying factors contributing to sales trends and making informed decisions.
+
+<img width="500" alt="Drilldown_SA" src="https://github.com/gouravjain77/PowerBI/assets/152005778/37e65dd6-0d85-4427-aa36-4ba831d0ad4e">
+
 ### Measures Created :
 - Date Selection = FORMAT(MIN(DIM_DATE[Reporting Period]),"MMM/YY")&" - "& FORMAT(MAX(DIM_DATE[Reporting Period]),"MMM/YY")
 - Date/Time Last Refreshed = "Last Refreshed: "&FORMAT(VALUES(LAST_REFRESHED[Date Last Refreshed]),"mm.dd.yy")
