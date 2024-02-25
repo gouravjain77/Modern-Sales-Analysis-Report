@@ -1,3 +1,6 @@
+
+
+
 # Sales Analysis Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
@@ -18,14 +21,26 @@ The Home page serves as the main hub for the dashboard, providing a high-level s
 ### Period
 The Period page allows users to analyze sales performance over different time periods, such as monthly, quarterly, or yearly. Users can track sales trends, identify seasonality patterns, and compare performance across different periods.
 
+
+<img width="616" alt="Period_SA" src="https://github.com/gouravjain77/PowerBI/assets/152005778/36adeb82-50ac-474e-8170-6faeac46ff2e">
+
+
 ### Segment
 The Segment page categorizes sales data based on customer segments, such as new customers, repeat customers, or high-value customers. Users can analyze customer behavior, identify segment-specific trends, and tailor marketing strategies accordingly.
+
+
+<img width="617" alt="Segment_SA" src="https://github.com/gouravjain77/PowerBI/assets/152005778/07f5e967-7406-4f90-9353-d070393c6da4">
 
 ### Country
 The Country page allows users to analyze sales performance across different countries or regions. Users can compare sales metrics, identify top-performing countries, and target international markets effectively.
 
+<img width="617" alt="Country_SA" src="https://github.com/gouravjain77/PowerBI/assets/152005778/634c4964-601f-4a7d-bce2-333cc090f343">
+
+
 ### Product
 The Product page provides insights into product performance, including top-selling products, product revenue, and profitability. Users can identify best-selling products, analyze product margins, and optimize product offerings.
+
+<img width="617" alt="Product_SA" src="https://github.com/gouravjain77/PowerBI/assets/152005778/58906b2f-75f7-4eb4-9769-af6391af1226">
 
 ### Help
 The Help page provides user-friendly guidance on how to navigate and utilize the dashboard effectively. Users can access tutorials, FAQs, and troubleshooting tips to enhance their experience.
