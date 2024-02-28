@@ -18,20 +18,20 @@ The Home page serves as the main hub for the dashboard, providing a high-level s
 <img width="618" alt="Home_SA" src="https://github.com/gouravjain77/PowerBI/assets/152005778/52c32f44-d5b8-42ed-a660-2ff29357ee90">
 
 ### Period
-The Period page allows users to analyze sales performance over different time periods, such as monthly, quarterly, or yearly. Users can track sales trends, identify seasonality patterns, and compare performance across different periods.
+The Period page allows users to analyze sales performance over units sold, net sales, profit, COGs over different periods. Users can track sales trends, identify seasonality patterns, and compare performance across different periods.
 
 
 <img width="616" alt="Period_SA" src="https://github.com/gouravjain77/PowerBI/assets/152005778/36adeb82-50ac-474e-8170-6faeac46ff2e">
 
 
 ### Segment
-The Segment page categorizes sales data based on customer segments, such as new customers, repeat customers, or high-value customers. Users can analyze customer behavior, identify segment-specific trends, and tailor marketing strategies accordingly.
+The Segment page categorizes sales data based on customer segments, over units sold, net sales, profit, and COGs. Users can analyze customer behavior, identify segment-specific trends, and tailor marketing strategies accordingly.
 
 
 <img width="617" alt="Segment_SA" src="https://github.com/gouravjain77/PowerBI/assets/152005778/07f5e967-7406-4f90-9353-d070393c6da4">
 
 ### Country
-The Country page allows users to analyze sales performance across different countries or regions. Users can compare sales metrics, identify top-performing countries, and target international markets effectively.
+The Country page allows users to analyze sales performance across different countries over units sold, net sales, profit, and COGs. Users can compare sales metrics, identify top-performing countries, and target international markets effectively.
 
 <img width="617" alt="Country_SA" src="https://github.com/gouravjain77/PowerBI/assets/152005778/634c4964-601f-4a7d-bce2-333cc090f343">
 
