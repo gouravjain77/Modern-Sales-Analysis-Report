@@ -1,5 +1,3 @@
-## Temp
-
 
 # Sales Analysis Dashboard
 
